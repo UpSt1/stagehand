@@ -9,3 +9,4 @@ export interface BrowserResult {
   contextPath?: string;
   sessionId?: string;
 }
+
