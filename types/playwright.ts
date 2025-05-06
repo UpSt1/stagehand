@@ -17,3 +17,4 @@ export interface GotoOptions {
   waitUntil?: "load" | "domcontentloaded" | "networkidle" | "commit";
   referer?: string;
 }
+
