@@ -40,3 +40,4 @@ const StagehandConfig: ConstructorParams = {
   } /* Configuration options for the local browser */,
 };
 export default StagehandConfig;
+
