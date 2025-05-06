@@ -28,3 +28,4 @@ export type LogLine = {
 };
 
 export type Logger = (logLine: LogLine) => void;
+
