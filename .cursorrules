@@ -1,4 +1,4 @@
-# Stagehand Project
+# Stagehand Project 
 
 This is a project that uses Stagehand, which amplifies Playwright with `act`, `extract`, and `observe` added to the Page class.
 
