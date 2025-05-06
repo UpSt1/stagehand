@@ -145,3 +145,4 @@ export class StagehandDomProcessError extends StagehandError {
     super(`Error Processing Dom: ${message}`);
   }
 }
+
