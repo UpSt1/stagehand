@@ -5,3 +5,4 @@ export type TextAnnotation = {
   width: number;
   height: number;
 };
+
