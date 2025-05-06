@@ -48,3 +48,4 @@ export type BrowserContext = PlaywrightContext;
 
 // Empty type for now, but will be used in the future
 export type Browser = PlaywrightBrowser;
+
