@@ -10,3 +10,4 @@ export interface VerifyActCompletionParams {
   logger: (message: { category?: string; message: string }) => void;
   requestId: string;
 }
+
